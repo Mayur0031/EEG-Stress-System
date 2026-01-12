@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Data (keep raw data out of git)
+data/raw/
+data/processed/
+
+# Models
+models_saved/
+
+# Logs
+*.log
