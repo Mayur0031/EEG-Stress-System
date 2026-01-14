@@ -1,0 +1,18 @@
+# Core numerical computing
+numpy>=1.26
+scipy>=1.11
+
+# Data handling
+pandas>=2.1
+
+# Machine learning (classical)
+scikit-learn>=1.3
+
+# EEG processing (optional but recommended)
+mne>=1.6
+
+# Visualization (for notebooks & debugging)
+matplotlib>=3.8
+
+# Logging
+loguru>=0.7
